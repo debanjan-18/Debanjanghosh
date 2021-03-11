@@ -459,3 +459,10 @@ footer{
   color: var(--light);
   margin-top: 0.8rem;
 }
+.copyright{
+  color: var(--ternary);
+  text-align: center;
+  margin-bottom: -9rem;
+  font-size: 1.2rem;
+  font-weight: 800;
+}
