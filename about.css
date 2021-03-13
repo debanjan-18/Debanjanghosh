@@ -1,0 +1,43 @@
+section.about .about-img{
+  height: 430px;
+  width: 400px;
+  border-radius: 10%;
+  margin-left: 90px;
+}
+section.about h1{
+
+  margin-bottom: 1rem;
+  font-size: 1.6rem;
+  font-weight: 800;
+
+}
+section.about h1 span{
+  color: var(--primary)
+
+}
+section.about h3{
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+
+}
+section.about p{
+  font-family: 'lato', sans-serif;
+  color: var(--ternary);
+  line-height: 1.7;
+
+}
+
+.section-heading{
+  color: var(--secondary);
+  text-align: center;
+  margin-bottom: 1rem;
+  line-height: 0.5;
+}
+.section-heading span{
+  color: var(--primary);
+}
+.section-heading + p{
+  color: var(--ternary);
+  font-family: 'lato',sans-serif;
+  margin-bottom: 7rem;
+  text-align: center;
