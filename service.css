@@ -37,8 +37,8 @@ section.services .wrappers .card:hover{
 section.services .wrappers .card:hover h2 ,section.services .wrappers .card:hover p{
   color: var(--pure);
 }
-@media (max-width: 991px){
+@media (max-width: 1024px){
   section.services .wrappers{
-  grid-template-columns: 1fr;  
+  grid-template-columns: 1fr;
   }
 }
